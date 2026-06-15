@@ -1,6 +1,6 @@
 # Health GO
 
-## [HG-SITE](https://github.com/health-go/hg-site)
+## [hg-site](https://github.com/health-go/hg-site)
 Loja, Laudos online, Academy e home publica com informações comerciais.
 
 ## [air-desktop](https://github.com/health-go/air_desktop)
